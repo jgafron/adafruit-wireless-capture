@@ -4,7 +4,7 @@
 
 Built an embedded IoT monitoring device using an Adafruit Feather RP2040, a LoRa radio, an AirLift WiFi module, and an OLED display. The system monitors nearby LoRa traffic, shows live packet info right on the device, and exports captured packets in PCAP and PCAP-NG format for analysis in Wireshark.
 
-![LoRa Monitor](https://raw.githubusercontent.com/jgafron/adafruit-wireless-capture/main/images/adafruit1.png)
+![LoRa Monitor](https://raw.githubusercontent.com/jgafron/adafruit-wireless-capture/main/images/adafruit1.jpg)
 
 *Live packet monitoring on the Adafruit Feather RP2040 showing packet count, RSSI, IP address, and the most recently received LoRa packet.*
 
